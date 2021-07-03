@@ -21,7 +21,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [Semantic Versioning]: https://semver.org/
 
 <!-- Versions -->
-[Unreleased]: http://monster/gitlab/crypto/owasp-zap/compare/v0.0.1...HEAD
-[Released]: http://monster/gitlab/crypto/owasp-zap/releases
-[0.0.2]: http://monster/gitlab/crypto/owasp-zap/compare/v0.0.1..v0.0.2
-[0.0.1]: http://monster/gitlab/crypto/owasp-zap/releases/v0.0.1
+[Unreleased]: https://github.com/samples-projects/sample-vagrant-owasp-zap/compare/v0.0.1...HEAD
+[Released]: https://github.com/samples-projects/sample-vagrant-owasp-zap/releases
+[0.0.2]: https://github.com/samples-projects/sample-vagrant-owasp-zap/compare/v0.0.1..v0.0.2
+[0.0.1]: https://github.com/samples-projects/sample-vagrant-owasp-zap/releases/v0.0.1
